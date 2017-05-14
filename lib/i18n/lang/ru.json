@@ -1,0 +1,9 @@
+{
+  "app.title": "Погода в мире",
+  "location.title": "Ваше местоположение: ",
+  "search.add": "Добавить",
+  "search.found": "Найден: ",
+  "city.remove": "Удалить",
+  "city.deg": "Фаренгейт/Цельсий",
+  "placeholder": "Выберите город"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "app.title",
+    "defaultMessage": "World weather"
+  },
+  {
+    "id": "location.title",
+    "defaultMessage": "Your location: "
+  },
+  {
+    "id": "search.add",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "search.found",
+    "defaultMessage": "Found: "
+  },
+  {
+    "id": "city.remove",
+    "defaultMessage": "Remove"
+  },
+  {
+    "id": "city.deg",
+    "defaultMessage": "Fahrenheit/Celsius"
+  },
+  {
+    "id": "placeholder",
+    "defaultMessage": "Choose a city"
+  }
+]

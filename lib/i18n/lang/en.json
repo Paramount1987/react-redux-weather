@@ -1,0 +1,9 @@
+{
+  "app.title": "World weather",
+  "location.title": "Your location: ",
+  "search.add": "Add",
+  "search.found": "Found: ",
+  "city.remove": "Remove",
+  "city.deg": "Fahrenheit/Celsius",
+  "placeholder": "Choose a city"
+}
